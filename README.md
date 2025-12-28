@@ -1,8 +1,8 @@
 ## E aí, me chamo Arthur Souza!
 
-🌉 Gosto de estudar sobre Tecnologia e caçar soluções inovadoras para problemas cotidianos
-📖 Estudo Desenvolvimento de Sistemas na Instituição Grau Técnico
-🏅 No meu tempo livre, busco praticar esportes
+🌉 Gosto de estudar sobre Tecnologia e caçar soluções inovadoras para problemas cotidianos <br>
+📖 Estudo Desenvolvimento de Sistemas na Instituição Grau Técnico <br>
+🏅 No meu tempo livre, busco praticar esportes <br>
 🏅 No futuro, espero conseguir me especializar na área de Segurança Cibernética 
 
 <div style="display: inline_block"><br>
