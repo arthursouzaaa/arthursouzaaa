@@ -1,10 +1,8 @@
 ## Hello, I'm Arthur Souza! 👋
 
-Frontend Developer | Building scalable web applications with React, TypeScript and Vite
-
-🌉 Technology enthusiast focused on developing innovative solutions for everyday challenges
-📖 Currently pursuing a Technical Degree in Systems Development at Grau Técnico
-🏅 In my spare time, I'm dedicated to sports as a way to maintain balance and discipline
+🌉 Technology enthusiast focused on developing innovative solutions for everyday challenges <br>
+📖 Currently pursuing a Technical Degree in Systems Development at Grau Técnico <br>
+🏅 In my spare time, I'm dedicated to sports as a way to maintain balance and discipline <br>
 
 ---
 
